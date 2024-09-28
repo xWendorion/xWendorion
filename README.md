@@ -23,6 +23,7 @@
 ![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=C&logoColor=007ACC)&nbsp;
 ![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=Cplusplus&logoColor=007ACC)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-0D1117?style=flat-square&logo=CSharp&logoColor=007ACC)&nbsp;
+![Pawn](https://img.shields.io/badge/-Pawn-0D1117?style=flat-square&logo=Pawn&logoColor=007ACC)&nbsp;
 
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python&logoColor=007ACC)&nbsp;
