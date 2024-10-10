@@ -2,7 +2,7 @@
 
 ### Hi! my name is Wenderson Dias
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Wenderson-Dias(Collw)&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Wenderson Dias(Collw)&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ###
 
