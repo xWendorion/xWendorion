@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=gruvbox_light" alt="ilustração do status do github">
 
 ### Hi! my name is Wenderson Dias
 
