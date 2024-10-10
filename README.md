@@ -1,10 +1,10 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=gruvbox_light" alt="ilustração do status do github">
 
 ### Hi! my name is Wenderson Dias
- </a>
- <a href="mailto:collwdev@gmail.com">
+ 
+
 <img src="https://img.shields.io/static/v1?label=Overview&message=Wenderson Dias(Collw)&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-</a>
+
 ###
 
 ###
