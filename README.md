@@ -9,8 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://giphy.com/embed/JlVkLKuxRSvLy"  />
-
 ###
 
 <div align="left">
