@@ -1,11 +1,8 @@
-<h2 align="left">Hi 👋! I'm Wenderson Dias, a passionate software developer from Brazil...</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Collw&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-###
+### Hi! my name is Wenderson Dias
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Collw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Collw&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<img src="https://img.shields.io/static/v1?label=Overview&message=Wenderson-Dias(Collw)&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ###
 
