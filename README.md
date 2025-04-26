@@ -3,7 +3,11 @@
 ### 💛 Hi! my name is Wenderson Dias!
  
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Wenderson Dias(Geoweon)&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+Desenvolvedor de Software, expecialista em C++.
+
+ Criador de Robos e projetos de Hardware com foco em automação e IA.
+
+ Profissional com habilidades em desenvolvimento de circuitos e machine learning.
 
 ###
 
