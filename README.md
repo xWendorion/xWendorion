@@ -3,9 +3,9 @@
 ### 💛 Hi! my name is Wenderson Dias!
  
 
-Desenvolvedor de Software, especialista em C++.
-Criador de robôs e projetos de hardware voltados para automação e inteligência artificial.
-Profissional com ampla experiência no desenvolvimento de circuitos eletrônicos e aplicações em machine learning.
+**Desenvolvedor de Software especializado em C++. Criador de soluções inovadoras em automação e inteligência artificial, unindo software e hardware de forma inteligente. Possuo ampla experiência no desenvolvimento de sistemas embarcados, projetos de robótica, eletrônica aplicada e integração de machine learning com dispositivos físicos. Atuo no desenvolvimento de circuitos eletrônicos de alta performance e aplicações inteligentes, entregando soluções robustas, escaláveis e eficientes para desafios tecnológicos complexos.**
+
+
 
 ###
 
