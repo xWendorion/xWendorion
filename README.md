@@ -36,7 +36,7 @@
   <a href="https://www.youtube.com/@Collw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat-square" height="20" alt="youtube logo"  />
   </a>
-  <a href="https://discord.com/icollw" target="_blank">
+  <a href="https://discord.com/xWendorion" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat-square" height="20" alt="discord logo"  />
   </a>
   <a href="mailto:collwdev@gmail.com">
