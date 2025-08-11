@@ -1,9 +1,6 @@
 
 
-### 💛 Hi! my name is Wenderson Dias!
- 
-
-**Purely for fun**
+### 💛 Purely for fun
 
 
 
